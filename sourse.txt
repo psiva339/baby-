@@ -2,3 +2,12 @@ ndkndskcnk
 djbjhdsjsdjsdfbsd
 dsjhbsdhfdsf
 
+<<<<<<< Updated upstream
+=======
+hello new world
+
+
+
+how are you all
+thankyou
+>>>>>>> Stashed changes
